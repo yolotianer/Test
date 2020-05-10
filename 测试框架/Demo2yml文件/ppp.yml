@@ -1,0 +1,23 @@
+##注意需要加空格
+#name: '郭小天'
+#age: 18
+#data:
+#  a: 1
+#  b: 2
+#  c: 3
+#  d: 4
+#list:
+#  - a
+#  - b
+#  - c
+#  - d
+
+-
+  url: 'http://www.baidu.com'
+  text: '肖战'
+-
+  url: 'http://www.baidu.com'
+  text: '二哈'
+-
+  url: 'http://www.baidu.com'
+  text: '星辰'
